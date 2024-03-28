@@ -20,7 +20,7 @@ public class firstTest {
 		
 		multiply obj1 = new multiply();
 		int t1=obj1.mul(8,2);
-		int t2=10;
+		int t2=16;
 		assertEquals(t1,t2);
 	}
 
